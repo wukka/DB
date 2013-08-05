@@ -1,0 +1,19 @@
+{
+    "name": "wukka/shortcircuit",
+    "type": "library",
+    "description": "Light DB abstraction layer for PHP, supports multiple datasources, nested transactions.",
+    "license": "MIT",
+    "authors": [
+        {"name": "John Loehrer", "email": "72squared@gmail.com"}
+    ],
+    "require": {
+        "php": ">=5.3.0",
+        "wukka/exception": "dev-master"
+    },
+    "require-dev": {
+        "wukka/test": "dev-master"
+    },
+    "autoload": {
+        "psr-0": { "Wukka\\DB": "lib/" }
+    }
+}
