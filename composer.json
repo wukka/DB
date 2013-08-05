@@ -1,5 +1,5 @@
 {
-    "name": "wukka/shortcircuit",
+    "name": "wukka/db",
     "type": "library",
     "description": "Light DB abstraction layer for PHP, supports multiple datasources, nested transactions.",
     "license": "MIT",
